@@ -1,1 +1,1 @@
-# sql-certificate[Uploading sql_basic certificate.pdf…]()
+[Uploading sql_basic certificate.pdf…]()
